@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/*
+  font-family: "Bebas Neue", sans-serif;
+  font-family: "Poppins", sans-serif;
+*/
+*{
+    background-color: #101630;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: antiquewhite;
+    max-width: 1800px;
+}
+.body{
+    font-family: "Bebas Neue", sans-serif;
+    margin:0;
+    padding:0;
+}
+.name{
+    width: 100%;
+    height: 300px;
+}
+.name .content {
+width: 50%;
+height: 50%;
+position: absolute;
+left: 35%;
+right: 50%;
+}
+.name .content .logocaya{
+    border-radius: 15px;
+    height: 100px;
+position: absolute;
+top: 8%;
+right: 150%;
+
+    
+}
+.name .content .logo .p-1 {
+    color: rgb(255, 255, 255);
+    font: 1em;
+    font-size: 50px;
+    position: absolute;
+    left: 1%;
+    right: 8%;
+}
+.name .content .imgus{
+    border-radius: 100%;
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    left: 10%;
+    top: 25%;
+}
+.container .t-1{
+    font-size: 30px;
+    font-family: "Bebas Neue", sans-serif;
+    
+}
+.container .p-3 {
+font-family: "Poppins",sans-serif;
+font-size: 25px;
+}
+.t-2 {
+    font-family: "Bebas Neue", sans-serif;
+    
+    font-size: 30px;
+
+}
+.p-3{
+    font-family:Arial ;
+    font-size: 20px; 
+    padding: 25px;
+}
+.container-2 .img .mari {
+    position: absolute;
+    left: 70%;
+    top: 200%;
+    width: 250px;
+    height: 150px;
+    border-radius: 100%;
+}
+.container-2 .img-2 .contec {
+    position: absolute;
+    left: 70%;
+    top: 260%;
+    width: 300px;
+    height: 150px; 
+    border-radius: 50%;
+}
+.container-2 .img-3 .central{
+    position: absolute;
+    left: 65%;
+    top: 370%;
+    width: 450px;
+    height: 150px;
+    border-radius:100% ;
+}
+.container-2 .img-l .what{
+    border-radius: 100%;
+    position: absolute;
+    left: 30%;
+}
+.container-2 .img-l .face{
+    border-radius: 100%;
+    position: absolute;
+    left: 45%;
+    top: 745%;
+}
+.container-2 .img-la .pichincha{
+    border-radius: 100%;
+    position: absolute;
+    left: 70%;
+    top: 610%;
+}
+.container-2 .img-cur .pichincha2{
+    border-radius: 100%;
+    position: absolute;
+    left: 70%;
+    top: 460%;
+}
+.container-2 .img-cur .cnt{
+    border-radius: 100%;
+    position: absolute;
+    left: 70%;
+    top: 520%;
+}
